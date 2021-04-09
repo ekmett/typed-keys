@@ -1,16 +1,15 @@
 {-# language AllowAmbiguousTypes #-}
-{-# language TypeOperators #-}
-{-# language TypeFamilies #-}
-{-# language FlexibleContexts #-}
-{-# language QuantifiedConstraints #-}
 {-# language ConstraintKinds #-}
-{-# language UndecidableInstances #-}
-{-# language PolyKinds #-}
-{-# language ScopedTypeVariables #-}
-{-# language RankNTypes #-}
+{-# language FlexibleContexts #-}
 {-# language GADTs #-}
-{-# language RoleAnnotations #-}
 {-# language MultiParamTypeClasses #-}
+{-# language PolyKinds #-}
+{-# language QuantifiedConstraints #-}
+{-# language RankNTypes #-}
+{-# language RoleAnnotations #-}
+{-# language ScopedTypeVariables #-}
+{-# language TypeFamilies #-}
+{-# language UndecidableInstances #-}
 
 -- |
 -- Copyright :  (c) Edward Kmett 2018-2020
